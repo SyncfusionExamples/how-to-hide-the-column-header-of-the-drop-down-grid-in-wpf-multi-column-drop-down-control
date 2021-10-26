@@ -19,6 +19,8 @@ private void OnMultiColumnDropDown_Loaded(object sender, RoutedEventArgs e)
 
 ![SfMultiColumnDropDownControl hidden column header](SfMultiColumnDropDownControl_ColumnHeader.png)
 
+KB article - [How to hide the column header of the DropDown Grid in WPF MultiColumnDropDownControl (SfMultiColumnDropDownControl)](https://www.syncfusion.com/kb/12541/how-to-hide-the-column-header-of-the-dropdown-grid-in-wpf-multicolumndropdowncontrol)
+
 ## Requirements to run the demo
 
 Visual Studio 2015 and above versions
