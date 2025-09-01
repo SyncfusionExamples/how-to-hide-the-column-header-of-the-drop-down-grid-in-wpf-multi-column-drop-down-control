@@ -1,8 +1,8 @@
-# How to hide the column header of the DropDown Grid in WPF MultiColumnDropDownControl (SfMultiColumnDropDownControl)?
+# How to hide the column header of the DropDown Grid in WPF MultiColumnDropDownControl?
 
 ## About the sample
 
-This sample illustrates how to hide the column header of the DropDown Grid in WPF MultiColumnDropDownControl (SfMultiColumnDropDownControl).
+This sample illustrates how to hide the column header of the DropDown Grid in WPF MultiColumnDropDownControl.
 
 [WPF MultiColumnDropDown](https://www.syncfusion.com/wpf-controls/multi-column-dropdown) (SfMultiColumnDropDownControl), allows you to hide the column header of the DataGrid displayed in the dropdown by setting the header row height of the dropdown grid to Zero.
 
@@ -19,7 +19,7 @@ private void OnMultiColumnDropDown_Loaded(object sender, RoutedEventArgs e)
 
 ![SfMultiColumnDropDownControl hidden column header](SfMultiColumnDropDownControl_ColumnHeader.png)
 
-KB article - [How to hide the column header of the DropDown Grid in WPF MultiColumnDropDownControl (SfMultiColumnDropDownControl)](https://www.syncfusion.com/kb/12541/how-to-hide-the-column-header-of-the-dropdown-grid-in-wpf-multicolumndropdowncontrol)
+Take a moment to peruse the [WPF MultiColumnDropDown - Getting Started](https://help.syncfusion.com/wpf/multi-column-dropdown/getting-started) documentation, where you can find about multicolumndropdown, with code examples.
 
 ## Requirements to run the demo
 
